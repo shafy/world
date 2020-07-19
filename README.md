@@ -11,14 +11,14 @@ If you can read this, per definition, the world simulation is running. Unfortuna
 
 The simulation has been running for a long, long time (some estimates put it at 13.8 billion years). Of course, no one knows who wrote the original code. All we know is that they had a big fat party aptly called The Big Bang when they launched this thing.
 
-However, lately, we've been racking up some bugs and issues. For starts, there's this fundamental bug called Climate Change that has been getting worse over the last few decades. Most recently, some jabronis infected our code with a virus named Covid-19 that decraesed the quality of the simulation for a lot of people.
+However, lately, we've been racking up some bugs and issues. For starters, there's this fundamental bug called Climate Change that has been getting worse over the last few decades. Most recently, some jabronis infected our code with a virus named Covid-19 that rendered the simulation unusable for a lot of people.
 
 To fix these issues, we need to rebuild the source code. Only then can we roll back some of the changes and continue with a different branch of the simulation.
 
 
 ## Contributing
 
-The best way to contriubute is to submit and discuss bugs that you encounter. If you want to help to rebuild the software that runs the world, feel free to pick an issue or a feature (from the feature list below) and submit a pull request.
+The best way to contribute is to submit and discuss bugs that you encounter. If you want to help to rebuild the software that runs the world, feel free to pick an issue or a feature (from list below) and submit a pull request.
 
 
 ## Running from source
@@ -30,7 +30,7 @@ Clone this project and run `python app.py`
 
 - [x] Start project
 - [ ] Build physics engine
-- [ ] Evolution algorithm
+- [ ] Evolution algorithm (ask Darwin for help)
 - [ ] Big Bang features
 - [ ] Cats
 - [ ] Disallow guns
@@ -39,6 +39,7 @@ Clone this project and run `python app.py`
 - [ ] Minimize greed
 - [ ] Build rockets
 - [ ] Artificial intelligence (not too intelligent)
+- [ ] Robots
 
 
 ## No, seriously, what is this?
