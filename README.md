@@ -21,20 +21,26 @@ To fix these issues, we need to rebuild the source code. Only then can we roll b
 The best way to contriubute is to submit and discuss bugs that you encounter. If you want to help to rebuild the software that runs the world, feel free to pick an issue or a feature (from the feature list below) and submit a pull request.
 
 
+## Running from source
+
+Clone this project and run `python app.py`
+
+
 ## Feature list
 
 - [x] Start project
-- [] Build physics engine
-- [] Evolution algorithm
-- [] Big Bang features
-- [] Cats
-- [] Disallow guns
-- [] Nerf assholes
-- [] More cats
-- [] Minimize greed
-- [] Build rockets
-- [] Artificial intelligence (not too intelligent)
+- [ ] Build physics engine
+- [ ] Evolution algorithm
+- [ ] Big Bang features
+- [ ] Cats
+- [ ] Disallow guns
+- [ ] Nerf assholes
+- [ ] More cats
+- [ ] Minimize greed
+- [ ] Build rockets
+- [ ] Artificial intelligence (not too intelligent)
 
 
 ## No, seriously, what is this?
+
 This is an attempt at community-driven comedy by [Dorena](https://twitter.com/dorenanagel) and [Can](https://twitter.com/canolcer).
