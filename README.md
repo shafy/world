@@ -1,6 +1,6 @@
 # World Bug Report
 
-The world is a simulation. File bugs here.
+The world is a simulation. Report bugs [here](https://github.com/shafy/world/issues).
 
 ## What is this?
 
