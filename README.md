@@ -41,6 +41,6 @@ Clone this project and run `python app.py`
 - [ ] Artificial intelligence (not too intelligent)
 
 
-## No, seriously, what is this?
+## No, seriously, what is this?
 
 This is an attempt at community-driven comedy by [Dorena](https://twitter.com/dorenanagel) and [Can](https://twitter.com/canolcer).
